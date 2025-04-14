@@ -1,0 +1,3 @@
+Reading file contain :
+line1 : This is sample text file
+line2 : It contain multiple lines
